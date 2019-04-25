@@ -25,3 +25,5 @@ https://medium.com/@aanandshekharroy/generate-barcode-in-android-app-using-zxing
 
 ZXING文件
 https://zxing.github.io/zxing/apidocs/com/google/zxing/integration/android/IntentIntegrator.html
+
+![Alt text](https://i.imgur.com/HQcs4LS.jpg)
